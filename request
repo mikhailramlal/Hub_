@@ -1,0 +1,1 @@
+game:HttpGet("https://thepro1000.000webhostapp.com/check.php", true)
